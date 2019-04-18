@@ -1,8 +1,8 @@
 Win64
 PlayerPath?
-C:/Users/dreww/Desktop/Drew Godden - 3D Level Design V2/3D Level Design.exe
+C:/Users/allcornr/Documents/GitHub/New-Murcrest/tyui/3D Level Design.exe
 SceneListBegin?
-Assets/3D Level Design Assignment #1/Scenes/Level Design Test.unity
+Assets/New-Murcrest/Scenes/New-Murcrest.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 01aa15e337e3a9c62f15153dfac6d589 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
